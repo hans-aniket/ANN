@@ -87,7 +87,7 @@ def extract_education(text):
 # RECOMMENDER
 # =========================
 
-def recommend_from_skills(skills, top_k=5):
+def recommend_from_skills(skills, top_k=100):
     seq = skills_to_ids(skills)
     seq_padded = pad_sequences([seq], maxlen=max_len, padding="post")
 
@@ -149,7 +149,7 @@ if uploaded_file:
             st.error("No skills detected in resume!")
         else:
             with st.spinner("Finding matches..."):
-                results = recommend_from_skills(skills, top_k=5)
+                results = recommend_from_skills(skills, top_k=100)
 
             st.subheader("⭐ Top Recommendations")
 
