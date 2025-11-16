@@ -1,0 +1,1078 @@
+Student_ID,Name,Category,CGPA,Allocated_Internship,Company,Location
+S00004,Ojasvi Kakar,OBC,8.12,I0032,IBM India,Noida
+S00005,Adya Bajwa,OBC,9.59,I0024,Flipkart,Jaipur
+S00016,Zilmil Bail,SC,8.63,I0027,OYO,Gaya
+S00023,Jhalak Bhattacharyya,GEN,7.81,I0014,HAL,Bangalore
+S00030,Hritik Pal,ST,5.41,I0020,Ola,Noida
+S00032,Bhavika Subramanian,ST,9.0,I0017,Tata Motors,Chandigarh
+S00033,Chakradhar Raman,ST,5.22,I0020,Ola,Noida
+S00040,Ryan Shetty,ST,7.2,I0033,Adobe India,Gurugram
+S00043,Libni Bhavsar,GEN,9.9,I0011,BHEL,Lucknow
+S00049,Shivansh Lal,SC,7.54,I0025,Zomato,Warangal
+S00053,Mohini Ratti,SC,9.87,I0015,ISRO,Ahmedabad
+S00058,Amol Agarwal,OBC,5.27,I0009,Paytm,Surat
+S00102,Lekha Narayan,GEN,6.61,I0028,BYJU'S,Chennai
+S00113,Bhavini Mani,EWS,6.9,I0020,Ola,Noida
+S00120,Jalsa Yadav,EWS,6.63,I0009,Paytm,Surat
+S00123,Shaurya Kata,OBC,6.58,I0002,Infosys,Chandigarh
+S00127,Anusha Sen,OBC,6.55,I0030,Microsoft India,Guwahati
+S00131,Anusha Garde,OBC,8.79,I0002,Infosys,Chandigarh
+S00138,Urvashi Narasimhan,EWS,7.19,I0030,Microsoft India,Guwahati
+S00151,Vyanjana Deshmukh,GEN,5.31,I0012,ONGC,Delhi
+S00154,Matthew Kannan,OBC,9.92,I0010,PhonePe,Patna
+S00156,Caleb Kashyap,ST,7.4,I0024,Flipkart,Jaipur
+S00158,Nidhi Tata,SC,8.9,I0031,Amazon India,Nagpur
+S00161,Raksha Nair,GEN,9.2,I0019,Maruti Suzuki,Guwahati
+S00163,Irya Chaudhari,EWS,8.49,I0029,Google India,Patna
+S00164,Hredhaan Khanna,SC,9.67,I0026,Swiggy,Mysuru
+S00173,Yamini Goyal,OBC,5.66,I0008,State Bank of India,Bangalore
+S00176,Darika Chandra,OBC,7.16,I0017,Tata Motors,Chandigarh
+S00177,Nihal Arora,OBC,7.91,I0027,OYO,Gaya
+S00179,Manthan Bhagat,EWS,5.52,I0008,State Bank of India,Bangalore
+S00183,Anvi Gole,EWS,5.98,I0024,Flipkart,Jaipur
+S00194,Ikshita Chawla,OBC,6.36,I0019,Maruti Suzuki,Guwahati
+S00198,Wazir Vohra,ST,8.27,I0033,Adobe India,Gurugram
+S00199,Megha De,SC,6.54,I0019,Maruti Suzuki,Guwahati
+S00203,Ati Pillai,EWS,9.29,I0002,Infosys,Chandigarh
+S00205,Lavanya Sabharwal,OBC,9.02,I0014,HAL,Bangalore
+S00210,Avi Bhakta,GEN,6.96,I0018,Mahindra & Mahindra,Kanpur
+S00216,Gunbir Chakrabarti,GEN,9.52,I0001,Tata Consultancy Services,Bangalore
+S00220,Urvashi Oommen,SC,9.45,I0016,DRDO,Delhi
+S00228,Chakradev Mahal,ST,8.45,I0001,Tata Consultancy Services,Bangalore
+S00230,Champak Madan,OBC,6.94,I0028,BYJU'S,Chennai
+S00231,Ryan Dugar,EWS,10.0,I0021,Apollo Hospitals,Chennai
+S00249,Jason Narula,SC,5.97,I0004,HCLTech,Kanpur
+S00253,Lajita Vala,EWS,5.19,I0026,Swiggy,Mysuru
+S00257,Chatura Sandal,GEN,9.11,I0032,IBM India,Noida
+S00260,Vedant Dutta,EWS,8.33,I0012,ONGC,Delhi
+S00262,Harrison Memon,EWS,9.16,I0015,ISRO,Ahmedabad
+S00269,Leena Dixit,SC,5.87,I0031,Amazon India,Nagpur
+S00271,Hardik Aggarwal,EWS,9.08,I0003,Wipro,Chennai
+S00274,Faqid Raj,OBC,9.58,I0021,Apollo Hospitals,Chennai
+S00276,Hemani Bhandari,GEN,5.24,I0001,Tata Consultancy Services,Bangalore
+S00282,Ekantika Savant,GEN,5.33,I0031,Amazon India,Nagpur
+S00284,Max Zacharia,ST,8.37,I0008,State Bank of India,Bangalore
+S00286,Jagvi Wali,SC,7.91,I0023,AIIMS,Kanpur
+S00287,Darsh Kara,OBC,5.73,I0030,Microsoft India,Guwahati
+S00290,Tanish Madan,ST,8.04,I0030,Microsoft India,Guwahati
+S00297,Umang Kaur,EWS,9.08,I0030,Microsoft India,Guwahati
+S00299,Adya Ramesh,ST,6.26,I0030,Microsoft India,Guwahati
+S00300,Yash Dugal,EWS,8.59,I0028,BYJU'S,Chennai
+S00305,Yadavi Dar,OBC,9.25,I0013,NTPC,Noida
+S00306,Saumya Radhakrishnan,SC,9.41,I0033,Adobe India,Gurugram
+S00318,Indira Sastry,GEN,5.02,I0021,Apollo Hospitals,Chennai
+S00319,Faris Ghosh,GEN,6.05,I0011,BHEL,Lucknow
+S00320,Yashvi Mandal,ST,5.25,I0028,BYJU'S,Chennai
+S00322,Ranbir Sundaram,SC,7.25,I0016,DRDO,Delhi
+S00323,Yahvi More,SC,7.29,I0008,State Bank of India,Bangalore
+S00325,Sudiksha Kunda,SC,6.99,I0002,Infosys,Chandigarh
+S00326,Chatresh Ramesh,EWS,5.52,I0032,IBM India,Noida
+S00330,Jonathan Sachdev,SC,6.54,I0006,ICICI Bank,Ahmedabad
+S00333,Jatin Chandran,OBC,5.26,I0009,Paytm,Surat
+S00342,Rushil Seshadri,ST,9.84,I0028,BYJU'S,Chennai
+S00344,Vasudha Nagarajan,GEN,7.17,I0019,Maruti Suzuki,Guwahati
+S00349,Fitan Golla,ST,5.47,I0032,IBM India,Noida
+S00350,Frederick Narain,EWS,6.02,I0021,Apollo Hospitals,Chennai
+S00355,Chatura Dugar,ST,8.57,I0014,HAL,Bangalore
+S00359,Januja Kota,GEN,7.0,I0012,ONGC,Delhi
+S00360,Brinda Sibal,ST,5.25,I0004,HCLTech,Kanpur
+S00361,Aarav Kulkarni,OBC,5.07,I0001,Tata Consultancy Services,Bangalore
+S00368,Tanay Munshi,GEN,8.24,I0031,Amazon India,Nagpur
+S00370,Yashoda Baria,EWS,8.41,I0028,BYJU'S,Chennai
+S00374,Bishakha Srinivas,SC,5.63,I0010,PhonePe,Patna
+S00376,Balhaar Agrawal,OBC,7.84,I0008,State Bank of India,Bangalore
+S00378,Megha Kar,SC,7.39,I0029,Google India,Patna
+S00383,Wakeeta Lata,ST,6.1,I0024,Flipkart,Jaipur
+S00386,Abhiram Wadhwa,ST,6.94,I0014,HAL,Bangalore
+S00392,Anvi Contractor,ST,9.15,I0026,Swiggy,Mysuru
+S00394,Indrajit Banerjee,OBC,8.68,I0031,Amazon India,Nagpur
+S00411,Adweta Barman,ST,7.75,I0027,OYO,Gaya
+S00415,Udyati Thakur,EWS,9.01,I0021,Apollo Hospitals,Chennai
+S00419,Faras Madan,ST,7.28,I0030,Microsoft India,Guwahati
+S00421,Qushi Aurora,GEN,8.43,I0025,Zomato,Warangal
+S00422,Faras Devi,GEN,6.91,I0025,Zomato,Warangal
+S00425,Yashawini Arya,OBC,9.91,I0016,DRDO,Delhi
+S00430,Urvi Vig,ST,8.73,I0019,Maruti Suzuki,Guwahati
+S00434,Harsh Vyas,ST,9.85,I0004,HCLTech,Kanpur
+S00442,Upasna Hora,EWS,6.4,I0017,Tata Motors,Chandigarh
+S00447,Samesh Sant,ST,7.27,I0024,Flipkart,Jaipur
+S00452,Gaurangi Saran,SC,5.56,I0015,ISRO,Ahmedabad
+S00453,Divya Grover,OBC,8.07,I0014,HAL,Bangalore
+S00454,Chandresh Brahmbhatt,OBC,6.77,I0014,HAL,Bangalore
+S00460,Ekapad Sane,GEN,9.37,I0029,Google India,Patna
+S00463,Hredhaan Badal,EWS,8.39,I0016,DRDO,Delhi
+S00466,Qabil Raman,EWS,6.71,I0029,Google India,Patna
+S00469,Brijesh Raghavan,ST,8.94,I0008,State Bank of India,Bangalore
+S00487,Andrew Chander,ST,7.94,I0024,Flipkart,Jaipur
+S00491,Onkar Luthra,ST,7.86,I0030,Microsoft India,Guwahati
+S00494,Ranbir Mistry,GEN,7.99,I0017,Tata Motors,Chandigarh
+S00498,Aryan Dua,SC,6.58,I0004,HCLTech,Kanpur
+S00502,Abhimanyu Radhakrishnan,OBC,7.65,I0023,AIIMS,Kanpur
+S00504,Rachana Bhavsar,OBC,7.14,I0023,AIIMS,Kanpur
+S00506,Bimala Devi,OBC,7.71,I0033,Adobe India,Gurugram
+S00513,Aishani Radhakrishnan,SC,6.86,I0006,ICICI Bank,Ahmedabad
+S00520,Nachiket Ramakrishnan,OBC,6.7,I0001,Tata Consultancy Services,Bangalore
+S00521,Chandani Ray,SC,6.46,I0026,Swiggy,Mysuru
+S00526,William Shanker,ST,8.72,I0010,PhonePe,Patna
+S00527,Wazir Keer,ST,9.76,I0005,Tech Mahindra,Pune
+S00529,Nitara Deshpande,SC,9.11,I0032,IBM India,Noida
+S00534,Lakshmi Keer,EWS,8.51,I0005,Tech Mahindra,Pune
+S00537,Darsh Deep,ST,9.75,I0017,Tata Motors,Chandigarh
+S00552,Zayyan Comar,GEN,6.65,I0012,ONGC,Delhi
+S00556,Elijah Malhotra,GEN,5.76,I0027,OYO,Gaya
+S00558,Ladli Dhingra,SC,7.53,I0020,Ola,Noida
+S00562,Rachita Nadkarni,EWS,7.67,I0014,HAL,Bangalore
+S00576,Madhavi Nagarajan,EWS,6.93,I0017,Tata Motors,Chandigarh
+S00577,Udarsh Rai,GEN,6.16,I0017,Tata Motors,Chandigarh
+S00589,Advik Dass,ST,6.78,I0014,HAL,Bangalore
+S00600,Omaja Prasad,OBC,7.19,I0031,Amazon India,Nagpur
+S00603,Turvi Dalal,SC,7.94,I0001,Tata Consultancy Services,Bangalore
+S00605,Jeet Venkatesh,SC,6.78,I0020,Ola,Noida
+S00608,Kiaan Sodhi,SC,7.73,I0004,HCLTech,Kanpur
+S00609,Qasim Agrawal,SC,8.25,I0011,BHEL,Lucknow
+S00610,Ijaya Kamdar,ST,9.83,I0018,Mahindra & Mahindra,Kanpur
+S00619,Mekhala Raj,EWS,7.26,I0023,AIIMS,Kanpur
+S00620,Vaishnavi Bava,GEN,7.33,I0001,Tata Consultancy Services,Bangalore
+S00628,Yashica Sahota,SC,9.94,I0030,Microsoft India,Guwahati
+S00630,Prisha Mangat,OBC,5.72,I0007,HDFC Bank,Ahmedabad
+S00635,Gunbir Hans,OBC,5.48,I0024,Flipkart,Jaipur
+S00636,Warhi Ahuja,OBC,6.24,I0020,Ola,Noida
+S00644,Wakeeta D’Alia,SC,8.82,I0007,HDFC Bank,Ahmedabad
+S00649,Daniel Patil,EWS,8.62,I0021,Apollo Hospitals,Chennai
+S00652,Meghana Sant,ST,8.05,I0021,Apollo Hospitals,Chennai
+S00677,Max Venkataraman,EWS,8.01,I0011,BHEL,Lucknow
+S00679,Forum Nayak,GEN,9.13,I0026,Swiggy,Mysuru
+S00688,Aachal Badal,EWS,7.67,I0024,Flipkart,Jaipur
+S00700,Faris Chada,OBC,5.12,I0031,Amazon India,Nagpur
+S00706,Eta Dube,OBC,8.17,I0015,ISRO,Ahmedabad
+S00711,Upma Thakur,EWS,9.27,I0027,OYO,Gaya
+S00725,Gaurika Shankar,GEN,9.69,I0022,Fortis Healthcare,Pune
+S00726,Jeet Talwar,OBC,9.52,I0023,AIIMS,Kanpur
+S00729,Jagdish Nanda,ST,8.72,I0018,Mahindra & Mahindra,Kanpur
+S00732,Krishna Bhat,EWS,8.98,I0024,Flipkart,Jaipur
+S00734,Gaurav Dada,OBC,6.66,I0029,Google India,Patna
+S00739,Gaurav Bala,GEN,9.28,I0013,NTPC,Noida
+S00740,Omkaar Bhargava,SC,5.21,I0005,Tech Mahindra,Pune
+S00743,Pratyush Sahni,GEN,9.94,I0009,Paytm,Surat
+S00744,Odika Lanka,ST,5.76,I0030,Microsoft India,Guwahati
+S00746,Yuvraj Zachariah,SC,9.95,I0011,BHEL,Lucknow
+S00751,Harrison Aggarwal,OBC,9.64,I0009,Paytm,Surat
+S00752,Lekha Saha,EWS,5.26,I0018,Mahindra & Mahindra,Kanpur
+S00767,Champak Baral,EWS,8.66,I0017,Tata Motors,Chandigarh
+S00769,Hardik Bava,OBC,5.74,I0007,HDFC Bank,Ahmedabad
+S00792,Sanaya Chokshi,ST,8.84,I0008,State Bank of India,Bangalore
+S00804,Oni Bhavsar,SC,6.13,I0023,AIIMS,Kanpur
+S00807,Baghyawati Bhagat,ST,8.2,I0009,Paytm,Surat
+S00814,Aradhana Bansal,SC,6.44,I0011,BHEL,Lucknow
+S00815,Orinder Hayre,OBC,7.1,I0014,HAL,Bangalore
+S00818,Aashi Agate,GEN,9.59,I0018,Mahindra & Mahindra,Kanpur
+S00820,Radha Saran,SC,5.99,I0032,IBM India,Noida
+S00823,Eesha Mohan,ST,8.87,I0018,Mahindra & Mahindra,Kanpur
+S00830,Chandran Mahal,OBC,5.68,I0016,DRDO,Delhi
+S00831,Avni Kumar,GEN,9.81,I0028,BYJU'S,Chennai
+S00841,Isha Parikh,EWS,9.17,I0015,ISRO,Ahmedabad
+S00845,Finn Sastry,EWS,6.09,I0001,Tata Consultancy Services,Bangalore
+S00847,Aishani Modi,ST,5.03,I0033,Adobe India,Gurugram
+S00848,Saanvi Nayak,SC,7.48,I0020,Ola,Noida
+S00854,Ranveer Mital,GEN,8.23,I0030,Microsoft India,Guwahati
+S00868,Udyati Gill,SC,5.92,I0030,Microsoft India,Guwahati
+S00876,Harrison Sawhney,SC,6.05,I0029,Google India,Patna
+S00881,Wriddhish Goda,ST,7.08,I0004,HCLTech,Kanpur
+S00882,Charles Morar,GEN,9.34,I0006,ICICI Bank,Ahmedabad
+S00890,Krish Dhar,EWS,9.41,I0027,OYO,Gaya
+S00891,Jeevika Sehgal,GEN,9.67,I0024,Flipkart,Jaipur
+S00893,Abhimanyu Pandya,GEN,8.49,I0022,Fortis Healthcare,Pune
+S00894,Hitesh Subramanian,GEN,7.16,I0008,State Bank of India,Bangalore
+S00897,Bimala Tara,OBC,7.19,I0021,Apollo Hospitals,Chennai
+S00903,Falan Nanda,OBC,7.76,I0014,HAL,Bangalore
+S00912,Deepa Soman,SC,5.57,I0017,Tata Motors,Chandigarh
+S00919,Sathvik Sathe,OBC,5.67,I0031,Amazon India,Nagpur
+S00926,Yutika Sood,ST,9.96,I0023,AIIMS,Kanpur
+S00928,Urmi Das,EWS,8.69,I0028,BYJU'S,Chennai
+S00938,Jatin Vala,ST,5.75,I0026,Swiggy,Mysuru
+S00940,Kritika Pall,OBC,9.91,I0010,PhonePe,Patna
+S00943,Hredhaan Ravel,ST,8.84,I0030,Microsoft India,Guwahati
+S00963,Barkha Ramachandran,ST,8.0,I0011,BHEL,Lucknow
+S00964,Christopher Ahuja,EWS,5.82,I0030,Microsoft India,Guwahati
+S00967,Meera Balan,ST,9.3,I0015,ISRO,Ahmedabad
+S00975,Neel Narain,EWS,7.97,I0001,Tata Consultancy Services,Bangalore
+S00986,Simon Sule,EWS,8.86,I0006,ICICI Bank,Ahmedabad
+S00990,Radhika Roy,GEN,9.89,I0013,NTPC,Noida
+S00994,Yatin Pathak,GEN,8.08,I0031,Amazon India,Nagpur
+S01001,Utkarsh Ram,ST,7.65,I0014,HAL,Bangalore
+S01002,Baljiwan Palla,OBC,9.62,I0033,Adobe India,Gurugram
+S01005,Dakshesh Agarwal,OBC,7.6,I0022,Fortis Healthcare,Pune
+S01009,Dev Reddy,SC,7.05,I0027,OYO,Gaya
+S01011,Vedhika Mahal,EWS,7.59,I0023,AIIMS,Kanpur
+S01015,Owen Saraf,ST,5.85,I0015,ISRO,Ahmedabad
+S01018,Abhiram Borde,SC,6.45,I0013,NTPC,Noida
+S01024,Veer Mangal,SC,6.71,I0008,State Bank of India,Bangalore
+S01028,Jackson Wason,EWS,9.91,I0031,Amazon India,Nagpur
+S01038,Rishi Bail,SC,8.27,I0008,State Bank of India,Bangalore
+S01042,Agastya Rau,GEN,7.26,I0024,Flipkart,Jaipur
+S01051,Yamini Wason,GEN,8.82,I0025,Zomato,Warangal
+S01054,Rachita Mahal,SC,6.77,I0005,Tech Mahindra,Pune
+S01058,Aarav Khare,SC,7.96,I0027,OYO,Gaya
+S01060,Falak Sabharwal,GEN,7.42,I0021,Apollo Hospitals,Chennai
+S01063,Divya Kar,SC,8.77,I0003,Wipro,Chennai
+S01065,Ganga Reddy,SC,9.23,I0023,AIIMS,Kanpur
+S01069,Lipika Tandon,GEN,5.4,I0032,IBM India,Noida
+S01079,Amrita Saha,SC,8.08,I0001,Tata Consultancy Services,Bangalore
+S01091,Omaja Lanka,EWS,5.47,I0019,Maruti Suzuki,Guwahati
+S01097,Ranveer Hayre,SC,8.02,I0030,Microsoft India,Guwahati
+S01106,Lucky Karpe,EWS,5.01,I0009,Paytm,Surat
+S01109,Oni Pillay,GEN,5.92,I0005,Tech Mahindra,Pune
+S01116,Omisha Apte,SC,5.58,I0025,Zomato,Warangal
+S01123,Eesha Sarkar,EWS,5.15,I0030,Microsoft India,Guwahati
+S01125,Avi Subramaniam,OBC,7.19,I0024,Flipkart,Jaipur
+S01134,Anvi Raghavan,GEN,5.65,I0007,HDFC Bank,Ahmedabad
+S01136,Hredhaan Shetty,EWS,7.67,I0010,PhonePe,Patna
+S01138,Mitesh Rattan,OBC,7.07,I0002,Infosys,Chandigarh
+S01157,Ethan Sant,ST,5.86,I0025,Zomato,Warangal
+S01158,Amol Sane,SC,6.96,I0016,DRDO,Delhi
+S01159,Ojasvi Divan,OBC,6.5,I0007,HDFC Bank,Ahmedabad
+S01166,Zayyan Pingle,EWS,7.64,I0029,Google India,Patna
+S01170,Ishwar Nanda,GEN,5.72,I0001,Tata Consultancy Services,Bangalore
+S01175,Chatura Memon,EWS,5.74,I0009,Paytm,Surat
+S01177,Avi Kanda,GEN,7.02,I0013,NTPC,Noida
+S01178,Kabir Bahri,GEN,8.3,I0001,Tata Consultancy Services,Bangalore
+S01190,Dhriti Rout,OBC,5.08,I0006,ICICI Bank,Ahmedabad
+S01195,Geetika Virk,EWS,6.55,I0019,Maruti Suzuki,Guwahati
+S01199,Avi Bhatti,OBC,5.22,I0002,Infosys,Chandigarh
+S01206,Ishanvi Biswas,SC,8.08,I0004,HCLTech,Kanpur
+S01212,Orinder Virk,SC,5.94,I0011,BHEL,Lucknow
+S01214,Aahana Luthra,GEN,6.91,I0021,Apollo Hospitals,Chennai
+S01223,Raghav Merchant,GEN,8.02,I0022,Fortis Healthcare,Pune
+S01230,Brijesh Sant,SC,5.53,I0016,DRDO,Delhi
+S01234,Viraj Memon,EWS,7.16,I0026,Swiggy,Mysuru
+S01236,Damyanti Magar,ST,6.38,I0016,DRDO,Delhi
+S01238,Manan Dutt,EWS,5.97,I0025,Zomato,Warangal
+S01249,Ridhi Talwar,SC,5.44,I0025,Zomato,Warangal
+S01251,Manthan Modi,SC,7.84,I0024,Flipkart,Jaipur
+S01252,Gunbir Chaudhry,GEN,9.92,I0008,State Bank of India,Bangalore
+S01259,Yashoda Sarraf,GEN,6.44,I0007,HDFC Bank,Ahmedabad
+S01262,Jagat Ahuja,EWS,8.78,I0011,BHEL,Lucknow
+S01263,Yashodhara Karan,SC,5.5,I0033,Adobe India,Gurugram
+S01268,Madhav Dua,SC,5.82,I0018,Mahindra & Mahindra,Kanpur
+S01270,Eesha Rama,GEN,6.22,I0010,PhonePe,Patna
+S01273,Lipika Raju,SC,8.64,I0019,Maruti Suzuki,Guwahati
+S01279,Matthew Mander,OBC,8.13,I0033,Adobe India,Gurugram
+S01281,Ekbal Keer,ST,7.63,I0010,PhonePe,Patna
+S01282,Urmi Banik,SC,6.23,I0028,BYJU'S,Chennai
+S01283,Tanvi Bhandari,EWS,6.92,I0012,ONGC,Delhi
+S01292,Avi Korpal,ST,9.85,I0002,Infosys,Chandigarh
+S01293,Balhaar Purohit,GEN,5.57,I0030,Microsoft India,Guwahati
+S01299,Avi Baral,EWS,8.03,I0031,Amazon India,Nagpur
+S01300,Sathvik Tella,EWS,5.88,I0024,Flipkart,Jaipur
+S01309,Vasana Venkataraman,EWS,6.94,I0032,IBM India,Noida
+S01312,Dev Mittal,OBC,8.52,I0021,Apollo Hospitals,Chennai
+S01318,Qarin Bansal,SC,5.6,I0033,Adobe India,Gurugram
+S01323,Hiral Dewan,OBC,9.27,I0019,Maruti Suzuki,Guwahati
+S01325,Daniel Walia,OBC,7.09,I0011,BHEL,Lucknow
+S01338,Vaishnavi Brar,EWS,8.7,I0022,Fortis Healthcare,Pune
+S01339,Indali Sarma,ST,9.33,I0025,Zomato,Warangal
+S01341,Ekavir Chacko,EWS,7.89,I0001,Tata Consultancy Services,Bangalore
+S01350,Samarth Rajagopal,ST,5.85,I0019,Maruti Suzuki,Guwahati
+S01351,Ishanvi Jani,OBC,9.88,I0021,Apollo Hospitals,Chennai
+S01353,Karan Dhawan,ST,8.52,I0006,ICICI Bank,Ahmedabad
+S01354,Urvashi Narayan,OBC,7.22,I0022,Fortis Healthcare,Pune
+S01356,Oni Swamy,SC,5.27,I0033,Adobe India,Gurugram
+S01360,Om Sheth,GEN,8.18,I0015,ISRO,Ahmedabad
+S01361,Hiral Pandit,GEN,5.35,I0027,OYO,Gaya
+S01365,Advay Nair,GEN,5.23,I0002,Infosys,Chandigarh
+S01366,Warinder Rao,SC,6.48,I0022,Fortis Healthcare,Pune
+S01374,Neel Butala,OBC,6.09,I0012,ONGC,Delhi
+S01393,Girish Pillay,GEN,8.44,I0018,Mahindra & Mahindra,Kanpur
+S01395,Amruta Dass,OBC,6.18,I0002,Infosys,Chandigarh
+S01397,Wridesh D’Alia,GEN,8.65,I0028,BYJU'S,Chennai
+S01404,Aadi Nayar,ST,9.27,I0030,Microsoft India,Guwahati
+S01406,Kalpit Sastry,GEN,6.26,I0007,HDFC Bank,Ahmedabad
+S01409,Eta Naidu,SC,5.05,I0030,Microsoft India,Guwahati
+S01410,Udarsh Banerjee,EWS,6.31,I0011,BHEL,Lucknow
+S01414,Upma Garg,OBC,8.5,I0006,ICICI Bank,Ahmedabad
+S01429,Jack Sem,SC,8.97,I0004,HCLTech,Kanpur
+S01432,Dipta Kapadia,SC,6.55,I0016,DRDO,Delhi
+S01435,Januja Jani,OBC,9.37,I0010,PhonePe,Patna
+S01442,Owen Suri,EWS,9.06,I0015,ISRO,Ahmedabad
+S01447,Inaya Merchant,OBC,8.6,I0012,ONGC,Delhi
+S01449,Fariq Sagar,GEN,7.61,I0027,OYO,Gaya
+S01455,Hritik Barman,GEN,9.62,I0010,PhonePe,Patna
+S01459,Aadi Bhatt,GEN,7.85,I0004,HCLTech,Kanpur
+S01467,Xalak Issac,ST,8.15,I0014,HAL,Bangalore
+S01468,Frederick Sathe,EWS,8.62,I0025,Zomato,Warangal
+S01476,Isha Thakur,SC,6.12,I0024,Flipkart,Jaipur
+S01477,Harshil Peri,EWS,6.77,I0017,Tata Motors,Chandigarh
+S01480,Oscar Soni,EWS,5.2,I0010,PhonePe,Patna
+S01485,Harish Bansal,ST,8.25,I0014,HAL,Bangalore
+S01486,Nidra Golla,ST,8.19,I0018,Mahindra & Mahindra,Kanpur
+S01488,Charita Saraf,OBC,5.36,I0024,Flipkart,Jaipur
+S01496,Chakrika Sha,GEN,8.04,I0018,Mahindra & Mahindra,Kanpur
+S01498,Yamini Venkatesh,GEN,6.64,I0023,AIIMS,Kanpur
+S01502,Orinder Kashyap,ST,5.83,I0021,Apollo Hospitals,Chennai
+S01503,Viraj Dubey,EWS,6.61,I0030,Microsoft India,Guwahati
+S01508,Banjeet Kale,SC,9.42,I0005,Tech Mahindra,Pune
+S01512,Wishi Master,EWS,5.45,I0022,Fortis Healthcare,Pune
+S01513,Nandini Wali,ST,5.25,I0018,Mahindra & Mahindra,Kanpur
+S01514,Kevin Palla,EWS,6.9,I0002,Infosys,Chandigarh
+S01525,Amol Ganesan,SC,9.67,I0020,Ola,Noida
+S01528,Christopher Ramaswamy,EWS,7.81,I0014,HAL,Bangalore
+S01533,Nathan Puri,OBC,7.82,I0031,Amazon India,Nagpur
+S01534,Samesh Gandhi,SC,9.76,I0004,HCLTech,Kanpur
+S01546,Waida Krishnan,GEN,5.23,I0004,HCLTech,Kanpur
+S01547,Widisha Kadakia,SC,6.1,I0031,Amazon India,Nagpur
+S01551,Prisha De,EWS,8.1,I0019,Maruti Suzuki,Guwahati
+S01553,Sai Manda,EWS,5.18,I0016,DRDO,Delhi
+S01555,Janani Rout,ST,9.62,I0006,ICICI Bank,Ahmedabad
+S01564,Chameli Bir,SC,6.8,I0018,Mahindra & Mahindra,Kanpur
+S01579,Karan Wable,EWS,6.61,I0022,Fortis Healthcare,Pune
+S01583,Wriddhish Char,EWS,5.54,I0015,ISRO,Ahmedabad
+S01586,Meera Dixit,GEN,6.51,I0004,HCLTech,Kanpur
+S01589,Wriddhish Saha,OBC,7.44,I0018,Mahindra & Mahindra,Kanpur
+S01591,Guneet Bains,GEN,7.97,I0024,Flipkart,Jaipur
+S01599,Nicholas Keer,EWS,8.65,I0017,Tata Motors,Chandigarh
+S01612,Faras Gupta,GEN,6.22,I0032,IBM India,Noida
+S01621,Umang Dhillon,OBC,5.94,I0016,DRDO,Delhi
+S01622,Wridesh Dugar,SC,6.04,I0009,Paytm,Surat
+S01625,Andrew Sastry,EWS,8.69,I0020,Ola,Noida
+S01628,Wazir Kibe,OBC,8.16,I0030,Microsoft India,Guwahati
+S01634,Caleb Dasgupta,ST,7.56,I0031,Amazon India,Nagpur
+S01639,Anthony Bumb,OBC,5.85,I0031,Amazon India,Nagpur
+S01646,Samaksh Luthra,ST,5.64,I0002,Infosys,Chandigarh
+S01664,Janya Sehgal,OBC,8.2,I0028,BYJU'S,Chennai
+S01665,Anusha Deo,OBC,9.34,I0019,Maruti Suzuki,Guwahati
+S01666,Chanchal Balasubramanian,OBC,6.43,I0013,NTPC,Noida
+S01674,Chaaya Sood,ST,6.04,I0018,Mahindra & Mahindra,Kanpur
+S01680,Harini Palan,ST,9.34,I0008,State Bank of India,Bangalore
+S01684,Yuvraj Krish,GEN,6.77,I0014,HAL,Bangalore
+S01691,Luke Kapoor,ST,9.15,I0021,Apollo Hospitals,Chennai
+S01693,Hiral Singh,EWS,6.73,I0010,PhonePe,Patna
+S01695,Sarthak Kashyap,ST,9.81,I0030,Microsoft India,Guwahati
+S01699,Aahana Varty,ST,7.73,I0013,NTPC,Noida
+S01703,Zayan Keer,EWS,5.93,I0026,Swiggy,Mysuru
+S01704,Rajata Krish,SC,6.9,I0018,Mahindra & Mahindra,Kanpur
+S01706,Gauri Bobal,ST,9.03,I0012,ONGC,Delhi
+S01710,Elijah Swaminathan,EWS,6.22,I0029,Google India,Patna
+S01713,Orinder Lala,OBC,5.59,I0002,Infosys,Chandigarh
+S01718,Balendra Mittal,ST,6.48,I0031,Amazon India,Nagpur
+S01720,Ikshita Arya,OBC,5.4,I0005,Tech Mahindra,Pune
+S01724,Jagdish Shukla,ST,5.03,I0001,Tata Consultancy Services,Bangalore
+S01728,Girish Dua,EWS,8.12,I0001,Tata Consultancy Services,Bangalore
+S01729,Nathan Bains,GEN,8.67,I0022,Fortis Healthcare,Pune
+S01731,Aarini Palla,OBC,6.52,I0031,Amazon India,Nagpur
+S01735,Anvi Borra,ST,9.81,I0019,Maruti Suzuki,Guwahati
+S01737,Pooja Kakar,ST,9.06,I0023,AIIMS,Kanpur
+S01738,Ayushman Malhotra,EWS,5.34,I0012,ONGC,Delhi
+S01743,Qushi Kulkarni,OBC,5.81,I0028,BYJU'S,Chennai
+S01748,Ekiya Ramesh,OBC,5.3,I0001,Tata Consultancy Services,Bangalore
+S01752,Vasatika Sawhney,OBC,6.37,I0019,Maruti Suzuki,Guwahati
+S01756,Neha Sachdev,ST,7.19,I0017,Tata Motors,Chandigarh
+S01769,Pavani Sawhney,SC,6.93,I0018,Mahindra & Mahindra,Kanpur
+S01772,Arunima Din,OBC,7.05,I0033,Adobe India,Gurugram
+S01776,Mason Lala,ST,6.68,I0004,HCLTech,Kanpur
+S01778,Chaaya Bhagat,GEN,7.97,I0001,Tata Consultancy Services,Bangalore
+S01785,Garima Gupta,GEN,9.06,I0019,Maruti Suzuki,Guwahati
+S01787,Aradhana Tandon,SC,6.87,I0019,Maruti Suzuki,Guwahati
+S01798,Falan Pall,EWS,5.36,I0018,Mahindra & Mahindra,Kanpur
+S01804,Vaishnavi Wagle,GEN,7.83,I0027,OYO,Gaya
+S01819,Nathan Ramachandran,ST,5.57,I0004,HCLTech,Kanpur
+S01828,Hema Manne,SC,7.22,I0005,Tech Mahindra,Pune
+S01829,Vedhika Bhakta,GEN,9.74,I0014,HAL,Bangalore
+S01832,Hiral Jha,GEN,5.34,I0028,BYJU'S,Chennai
+S01835,Jai Mishra,SC,7.18,I0026,Swiggy,Mysuru
+S01836,Chandani Dora,OBC,9.97,I0017,Tata Motors,Chandigarh
+S01838,Radha Karnik,ST,6.64,I0002,Infosys,Chandigarh
+S01839,Chakradev Ahuja,OBC,5.38,I0008,State Bank of India,Bangalore
+S01842,Oeshi Singhal,SC,6.66,I0033,Adobe India,Gurugram
+S01844,Peter Prasad,ST,5.9,I0026,Swiggy,Mysuru
+S01859,Veda Mitter,ST,6.34,I0028,BYJU'S,Chennai
+S01862,Nitesh Raghavan,EWS,8.92,I0021,Apollo Hospitals,Chennai
+S01863,Yadavi Mall,ST,8.94,I0002,Infosys,Chandigarh
+S01875,Daksha Setty,ST,8.66,I0019,Maruti Suzuki,Guwahati
+S01878,Oni Bora,SC,5.68,I0003,Wipro,Chennai
+S01882,Baljiwan Tandon,OBC,9.71,I0020,Ola,Noida
+S01885,Arunima Bhargava,ST,6.11,I0025,Zomato,Warangal
+S01886,Hema Ahuja,GEN,9.16,I0031,Amazon India,Nagpur
+S01897,Wriddhish Bir,GEN,5.43,I0011,BHEL,Lucknow
+S01902,Yashawini Krish,OBC,7.61,I0014,HAL,Bangalore
+S01903,Yahvi Ramachandran,GEN,6.55,I0028,BYJU'S,Chennai
+S01910,Vrinda Gupta,ST,6.25,I0026,Swiggy,Mysuru
+S01914,Nitesh Bajaj,GEN,8.31,I0030,Microsoft India,Guwahati
+S01915,Anusha Samra,ST,7.27,I0001,Tata Consultancy Services,Bangalore
+S01919,Bachittar Ratta,SC,8.22,I0022,Fortis Healthcare,Pune
+S01920,Warjas Zachariah,GEN,7.22,I0005,Tech Mahindra,Pune
+S01929,Faraj Bhavsar,OBC,5.44,I0008,State Bank of India,Bangalore
+S01931,George Borde,GEN,9.69,I0028,BYJU'S,Chennai
+S01935,Eesha Hayer,SC,7.39,I0021,Apollo Hospitals,Chennai
+S01939,Harrison Kala,EWS,6.17,I0022,Fortis Healthcare,Pune
+S01954,Ira Choudhary,ST,5.43,I0008,State Bank of India,Bangalore
+S01963,Nitara Kalita,SC,6.31,I0012,ONGC,Delhi
+S01968,Niharika Nagar,GEN,9.4,I0022,Fortis Healthcare,Pune
+S01972,Manan Thaker,ST,9.33,I0004,HCLTech,Kanpur
+S01975,Vanya Khalsa,GEN,5.97,I0027,OYO,Gaya
+S01976,Veer Panchal,GEN,9.58,I0011,BHEL,Lucknow
+S01977,Frederick Saha,GEN,6.43,I0023,AIIMS,Kanpur
+S01987,Tara Salvi,GEN,9.62,I0014,HAL,Bangalore
+S01997,Aayush Srinivasan,OBC,5.83,I0012,ONGC,Delhi
+S02000,Brinda Nadkarni,OBC,8.06,I0017,Tata Motors,Chandigarh
+S02001,Madhavi Mangal,GEN,8.89,I0010,PhonePe,Patna
+S02008,Chaitanya Balan,OBC,5.59,I0003,Wipro,Chennai
+S02015,Kavya Majumdar,GEN,8.79,I0011,BHEL,Lucknow
+S02020,Vritti Reddy,EWS,7.56,I0023,AIIMS,Kanpur
+S02024,Ira Bassi,EWS,6.72,I0010,PhonePe,Patna
+S02027,Ronith Naidu,ST,9.18,I0008,State Bank of India,Bangalore
+S02034,Jeremiah Dhillon,EWS,5.72,I0027,OYO,Gaya
+S02050,Aadi Virk,GEN,5.38,I0014,HAL,Bangalore
+S02058,Zashil Subramaniam,OBC,9.36,I0023,AIIMS,Kanpur
+S02059,Aadhya Buch,GEN,5.04,I0017,Tata Motors,Chandigarh
+S02065,Akshay Yogi,EWS,5.4,I0012,ONGC,Delhi
+S02071,Nitara Puri,GEN,6.74,I0031,Amazon India,Nagpur
+S02089,Lakshmi Parsa,GEN,9.69,I0033,Adobe India,Gurugram
+S02094,Leena Gokhale,OBC,6.23,I0023,AIIMS,Kanpur
+S02096,Ekavir Gour,GEN,5.65,I0010,PhonePe,Patna
+S02099,Lopa Wason,ST,6.31,I0020,Ola,Noida
+S02100,Yashvi Dara,ST,5.09,I0033,Adobe India,Gurugram
+S02101,Vansha Mallick,SC,6.67,I0022,Fortis Healthcare,Pune
+S02105,Reyansh Devan,EWS,6.7,I0006,ICICI Bank,Ahmedabad
+S02110,Chanakya Purohit,SC,6.71,I0029,Google India,Patna
+S02112,Brinda Nori,OBC,9.38,I0011,BHEL,Lucknow
+S02116,Avi Goswami,OBC,6.28,I0021,Apollo Hospitals,Chennai
+S02130,Zehaan Peri,EWS,9.82,I0028,BYJU'S,Chennai
+S02131,Sathvik Anne,EWS,7.05,I0031,Amazon India,Nagpur
+S02136,Radhika Borra,OBC,6.74,I0030,Microsoft India,Guwahati
+S02137,Chaman Rama,EWS,7.02,I0028,BYJU'S,Chennai
+S02139,Krish Thakkar,EWS,8.67,I0021,Apollo Hospitals,Chennai
+S02145,Forum Sengupta,OBC,9.57,I0021,Apollo Hospitals,Chennai
+S02147,Gopal Raja,OBC,8.67,I0029,Google India,Patna
+S02148,Aishani Barad,OBC,7.91,I0014,HAL,Bangalore
+S02154,Samuel Raghavan,ST,5.57,I0019,Maruti Suzuki,Guwahati
+S02188,Baljiwan Buch,OBC,8.68,I0025,Zomato,Warangal
+S02192,Oliver Prabhu,SC,6.47,I0019,Maruti Suzuki,Guwahati
+S02195,Ekaja Ghosh,EWS,5.67,I0008,State Bank of India,Bangalore
+S02201,Ronith Kibe,ST,9.76,I0004,HCLTech,Kanpur
+S02204,Oviya Brahmbhatt,EWS,9.25,I0029,Google India,Patna
+S02206,Isaac Chowdhury,SC,7.61,I0005,Tech Mahindra,Pune
+S02207,Vivaan Sengupta,SC,9.65,I0023,AIIMS,Kanpur
+S02211,Yochana Raval,ST,9.26,I0004,HCLTech,Kanpur
+S02212,Jason Kalita,SC,9.62,I0023,AIIMS,Kanpur
+S02219,Chandresh Mangal,OBC,8.76,I0002,Infosys,Chandigarh
+S02221,Oni Sarin,ST,6.68,I0016,DRDO,Delhi
+S02222,Maya Bhatt,OBC,7.2,I0024,Flipkart,Jaipur
+S02225,Chaman Walla,OBC,5.59,I0002,Infosys,Chandigarh
+S02226,Wridesh Yadav,SC,7.36,I0026,Swiggy,Mysuru
+S02227,Xiti Khatri,SC,6.97,I0031,Amazon India,Nagpur
+S02233,Aahana Karnik,ST,6.78,I0022,Fortis Healthcare,Pune
+S02248,Zansi Pant,ST,8.65,I0010,PhonePe,Patna
+S02252,Finn Borde,SC,5.27,I0017,Tata Motors,Chandigarh
+S02253,Janaki Babu,EWS,8.12,I0015,ISRO,Ahmedabad
+S02255,Frado Sule,GEN,9.51,I0012,ONGC,Delhi
+S02260,Madhav Sandal,ST,8.4,I0012,ONGC,Delhi
+S02270,Xiti Varghese,ST,6.38,I0008,State Bank of India,Bangalore
+S02272,Gayathri Mohan,GEN,6.27,I0013,NTPC,Noida
+S02276,Gautami Jaggi,GEN,5.07,I0003,Wipro,Chennai
+S02279,Banjeet Nayar,GEN,7.64,I0004,HCLTech,Kanpur
+S02284,Sanya Iyengar,EWS,7.55,I0008,State Bank of India,Bangalore
+S02287,Naksh Chakrabarti,OBC,5.85,I0018,Mahindra & Mahindra,Kanpur
+S02288,Raksha Rau,ST,8.76,I0029,Google India,Patna
+S02294,Onkar Char,GEN,7.23,I0033,Adobe India,Gurugram
+S02305,Yachana Maharaj,OBC,9.99,I0032,IBM India,Noida
+S02308,Ekalinga Kothari,SC,9.19,I0014,HAL,Bangalore
+S02314,Jairaj Sathe,OBC,6.2,I0029,Google India,Patna
+S02330,William Varughese,EWS,7.67,I0015,ISRO,Ahmedabad
+S02336,Baljiwan Pall,EWS,9.24,I0032,IBM India,Noida
+S02337,Indrajit Sankaran,EWS,6.54,I0021,Apollo Hospitals,Chennai
+S02351,Jacob Rama,EWS,9.28,I0012,ONGC,Delhi
+S02355,Isaiah Gera,SC,5.93,I0025,Zomato,Warangal
+S02358,Nidhi Trivedi,EWS,7.15,I0030,Microsoft India,Guwahati
+S02360,Upkaar Saraf,ST,6.54,I0005,Tech Mahindra,Pune
+S02365,Neel Singh,GEN,8.19,I0003,Wipro,Chennai
+S02369,Baljiwan Gole,SC,5.46,I0018,Mahindra & Mahindra,Kanpur
+S02370,Watika Thaker,ST,6.38,I0012,ONGC,Delhi
+S02376,Dalaja Comar,ST,7.38,I0004,HCLTech,Kanpur
+S02381,Kala Kumar,GEN,5.43,I0016,DRDO,Delhi
+S02392,Lajita Pathak,ST,9.87,I0021,Apollo Hospitals,Chennai
+S02395,Brijesh Naik,ST,8.82,I0022,Fortis Healthcare,Pune
+S02398,Suhani Hegde,EWS,7.3,I0002,Infosys,Chandigarh
+S02405,Garima Barad,ST,7.47,I0002,Infosys,Chandigarh
+S02406,Urmi Lanka,EWS,7.4,I0026,Swiggy,Mysuru
+S02407,Robert Tiwari,SC,8.88,I0029,Google India,Patna
+S02408,Ekani Peri,EWS,9.47,I0003,Wipro,Chennai
+S02410,Gavin Mangal,EWS,7.2,I0015,ISRO,Ahmedabad
+S02414,Balvan Mall,OBC,8.56,I0017,Tata Motors,Chandigarh
+S02420,Wakeeta Bail,ST,7.92,I0032,IBM India,Noida
+S02433,Oscar Contractor,OBC,5.92,I0008,State Bank of India,Bangalore
+S02450,Madhavi Sekhon,EWS,5.38,I0016,DRDO,Delhi
+S02452,Raksha Shenoy,GEN,9.11,I0019,Maruti Suzuki,Guwahati
+S02457,Mitali Verma,ST,7.86,I0019,Maruti Suzuki,Guwahati
+S02459,Krishna Sampath,ST,8.2,I0022,Fortis Healthcare,Pune
+S02460,Krish Oak,EWS,5.29,I0005,Tech Mahindra,Pune
+S02465,Ekiya Krish,EWS,9.13,I0012,ONGC,Delhi
+S02469,Upkaar Dua,ST,9.98,I0018,Mahindra & Mahindra,Kanpur
+S02475,Jonathan Pingle,GEN,8.24,I0001,Tata Consultancy Services,Bangalore
+S02476,Adya Wadhwa,SC,5.97,I0011,BHEL,Lucknow
+S02490,Frado Rout,SC,8.8,I0026,Swiggy,Mysuru
+S02494,Wahab D’Alia,ST,7.69,I0023,AIIMS,Kanpur
+S02496,Baljiwan Gupta,GEN,8.55,I0002,Infosys,Chandigarh
+S02499,Fitan Chaudry,SC,9.81,I0024,Flipkart,Jaipur
+S02506,Damini Baral,SC,8.54,I0008,State Bank of India,Bangalore
+S02508,Girindra Pandit,ST,8.71,I0013,NTPC,Noida
+S02510,Omaja Narula,OBC,5.4,I0029,Google India,Patna
+S02515,Balvan Gole,SC,6.17,I0004,HCLTech,Kanpur
+S02516,Wahab Barad,SC,7.71,I0024,Flipkart,Jaipur
+S02526,Qadim Divan,GEN,9.18,I0028,BYJU'S,Chennai
+S02535,Chameli Kata,GEN,5.24,I0001,Tata Consultancy Services,Bangalore
+S02541,Rudra Lal,OBC,9.0,I0024,Flipkart,Jaipur
+S02544,Tejas Sodhi,OBC,9.14,I0025,Zomato,Warangal
+S02545,Jhalak Brar,GEN,8.35,I0007,HDFC Bank,Ahmedabad
+S02550,Fitan Pall,SC,9.24,I0010,PhonePe,Patna
+S02553,Omkaar Mody,EWS,8.89,I0010,PhonePe,Patna
+S02560,Barkha Gopal,EWS,5.29,I0022,Fortis Healthcare,Pune
+S02561,Dev Ghosh,SC,7.01,I0010,PhonePe,Patna
+S02562,Aradhana Yogi,SC,9.39,I0033,Adobe India,Gurugram
+S02569,Ishaan Varma,OBC,8.87,I0030,Microsoft India,Guwahati
+S02580,Nikita Dhawan,GEN,7.53,I0033,Adobe India,Gurugram
+S02582,Ishanvi Kalita,GEN,6.56,I0029,Google India,Patna
+S02588,Bhanumati Trivedi,GEN,6.51,I0014,HAL,Bangalore
+S02590,Rishi Jhaveri,SC,6.94,I0012,ONGC,Delhi
+S02595,Anita Bail,GEN,6.24,I0021,Apollo Hospitals,Chennai
+S02597,Nidra Vohra,SC,9.56,I0007,HDFC Bank,Ahmedabad
+S02600,Ishanvi Bumb,GEN,9.76,I0001,Tata Consultancy Services,Bangalore
+S02606,Dipta Luthra,OBC,8.87,I0013,NTPC,Noida
+S02608,Vinaya Ghose,GEN,5.91,I0003,Wipro,Chennai
+S02610,Dominic Bora,SC,6.31,I0025,Zomato,Warangal
+S02631,Gauri Narang,EWS,6.55,I0024,Flipkart,Jaipur
+S02644,Ekanta Murthy,EWS,8.89,I0023,AIIMS,Kanpur
+S02645,Isaiah Badal,EWS,6.41,I0003,Wipro,Chennai
+S02647,Jai Agate,OBC,9.77,I0004,HCLTech,Kanpur
+S02648,Oscar Sastry,GEN,7.17,I0029,Google India,Patna
+S02652,Yatin Thaker,SC,8.28,I0033,Adobe India,Gurugram
+S02654,Atharv Krishnamurthy,EWS,9.82,I0002,Infosys,Chandigarh
+S02657,Eiravati Peri,EWS,9.93,I0021,Apollo Hospitals,Chennai
+S02664,Kritika Konda,SC,8.88,I0027,OYO,Gaya
+S02672,Ganga Sidhu,EWS,7.69,I0029,Google India,Patna
+S02674,Upma Narayan,GEN,8.86,I0023,AIIMS,Kanpur
+S02677,Veer Banerjee,GEN,9.57,I0031,Amazon India,Nagpur
+S02681,Advika Hegde,EWS,5.31,I0031,Amazon India,Nagpur
+S02684,Pavani Biswas,ST,6.77,I0017,Tata Motors,Chandigarh
+S02685,Upadhriti Chopra,SC,5.47,I0027,OYO,Gaya
+S02691,Tanveer Salvi,OBC,8.21,I0030,Microsoft India,Guwahati
+S02693,Ganga Srinivasan,GEN,6.82,I0030,Microsoft India,Guwahati
+S02700,Chakradev Sengupta,SC,9.56,I0010,PhonePe,Patna
+S02705,Advaith Saraf,ST,6.41,I0020,Ola,Noida
+S02717,Anya Khosla,SC,8.91,I0033,Adobe India,Gurugram
+S02724,Parth Chaudhari,OBC,9.23,I0018,Mahindra & Mahindra,Kanpur
+S02728,Vasana Lad,SC,9.88,I0028,BYJU'S,Chennai
+S02729,Harish Golla,OBC,9.89,I0021,Apollo Hospitals,Chennai
+S02737,Ladli Raj,SC,6.53,I0029,Google India,Patna
+S02738,Luke Chopra,SC,8.98,I0029,Google India,Patna
+S02739,Ayushman Parmer,ST,5.24,I0029,Google India,Patna
+S02741,Anirudh Agarwal,EWS,6.88,I0011,BHEL,Lucknow
+S02745,Tara Bhandari,GEN,6.06,I0013,NTPC,Noida
+S02755,Chavvi Shah,GEN,7.59,I0027,OYO,Gaya
+S02757,Hredhaan Virk,ST,5.28,I0030,Microsoft India,Guwahati
+S02758,Dalaja Magar,GEN,7.47,I0011,BHEL,Lucknow
+S02759,Warhi Khosla,SC,7.55,I0029,Google India,Patna
+S02761,Jhalak Shan,OBC,6.03,I0014,HAL,Bangalore
+S02762,Zilmil Sami,OBC,8.24,I0027,OYO,Gaya
+S02772,Watika Borah,OBC,5.97,I0021,Apollo Hospitals,Chennai
+S02774,Faris Puri,SC,9.26,I0024,Flipkart,Jaipur
+S02780,Kai Chaudhari,ST,5.66,I0030,Microsoft India,Guwahati
+S02783,Kashvi Mitra,OBC,6.06,I0015,ISRO,Ahmedabad
+S02787,Gaurangi Pillai,ST,7.41,I0011,BHEL,Lucknow
+S02793,Xiti Manda,OBC,7.47,I0010,PhonePe,Patna
+S02800,Arin Varughese,GEN,7.51,I0015,ISRO,Ahmedabad
+S02804,Chaitaly Chand,ST,8.6,I0014,HAL,Bangalore
+S02805,Warhi Shenoy,GEN,6.49,I0033,Adobe India,Gurugram
+S02810,Damyanti Chanda,OBC,7.44,I0018,Mahindra & Mahindra,Kanpur
+S02817,Indira Keer,ST,7.12,I0023,AIIMS,Kanpur
+S02819,Ethan Edwin,GEN,7.53,I0014,HAL,Bangalore
+S02826,Farhan Barad,EWS,9.41,I0013,NTPC,Noida
+S02830,Gaurika Narayanan,EWS,9.11,I0027,OYO,Gaya
+S02837,Abdul Gola,GEN,7.44,I0015,ISRO,Ahmedabad
+S02843,Isaiah Purohit,SC,7.63,I0021,Apollo Hospitals,Chennai
+S02845,Ishaan Patel,ST,5.86,I0007,HDFC Bank,Ahmedabad
+S02847,Anthony Rastogi,GEN,6.89,I0016,DRDO,Delhi
+S02849,Aahana Sachdeva,GEN,9.57,I0015,ISRO,Ahmedabad
+S02850,Balveer Kala,EWS,6.57,I0015,ISRO,Ahmedabad
+S02866,Watika Dass,OBC,5.6,I0024,Flipkart,Jaipur
+S02878,Nicholas Devan,SC,8.55,I0031,Amazon India,Nagpur
+S02879,Lopa Dutt,OBC,5.46,I0021,Apollo Hospitals,Chennai
+S02881,Nitara Bedi,ST,7.04,I0012,ONGC,Delhi
+S02884,Ojasvi Andra,GEN,7.25,I0017,Tata Motors,Chandigarh
+S02888,Ranbir Patil,SC,5.25,I0002,Infosys,Chandigarh
+S02890,Forum Lata,EWS,9.83,I0023,AIIMS,Kanpur
+S02891,Praneel Boase,GEN,8.2,I0015,ISRO,Ahmedabad
+S02893,Janaki Char,GEN,6.62,I0016,DRDO,Delhi
+S02894,Geetika Shan,ST,7.94,I0002,Infosys,Chandigarh
+S02895,Ikbal Nagy,GEN,9.75,I0012,ONGC,Delhi
+S02896,Ubika Devi,EWS,7.71,I0018,Mahindra & Mahindra,Kanpur
+S02906,Tanay Gaba,ST,9.53,I0015,ISRO,Ahmedabad
+S02910,Urvi Sabharwal,ST,9.52,I0002,Infosys,Chandigarh
+S02917,Lakshit Sarma,OBC,5.4,I0031,Amazon India,Nagpur
+S02920,Yasti Kakar,SC,7.6,I0033,Adobe India,Gurugram
+S02924,Michael Pandit,ST,8.81,I0027,OYO,Gaya
+S02925,Bhavya Saran,OBC,9.75,I0021,Apollo Hospitals,Chennai
+S02928,Yachana Murty,OBC,7.07,I0023,AIIMS,Kanpur
+S02931,Oviya Patla,OBC,9.36,I0031,Amazon India,Nagpur
+S02945,Praneel Kapadia,EWS,7.87,I0012,ONGC,Delhi
+S02957,Ansh Apte,ST,6.09,I0031,Amazon India,Nagpur
+S02962,Atharv Kohli,SC,7.78,I0010,PhonePe,Patna
+S02964,Gopal Patla,SC,7.08,I0032,IBM India,Noida
+S02967,Suhani Borra,EWS,7.58,I0001,Tata Consultancy Services,Bangalore
+S02968,Yatin Bhatt,SC,7.77,I0023,AIIMS,Kanpur
+S02983,Vihaan Seth,ST,5.46,I0003,Wipro,Chennai
+S02984,Radha Sodhi,EWS,6.49,I0002,Infosys,Chandigarh
+S02985,Christopher Dar,ST,6.21,I0009,Paytm,Surat
+S02999,Aachal Palan,SC,5.02,I0012,ONGC,Delhi
+S03002,Faqid Subramaniam,ST,5.74,I0020,Ola,Noida
+S03006,Christopher Malhotra,SC,9.82,I0010,PhonePe,Patna
+S03007,Ridhi Chadha,GEN,6.67,I0033,Adobe India,Gurugram
+S03009,Nicholas Grewal,SC,7.92,I0027,OYO,Gaya
+S03011,Brijesh Krish,ST,6.51,I0002,Infosys,Chandigarh
+S03028,Thomas Goda,GEN,7.36,I0002,Infosys,Chandigarh
+S03031,Tripti Contractor,EWS,6.51,I0010,PhonePe,Patna
+S03032,Chandani Bhagat,SC,6.33,I0026,Swiggy,Mysuru
+S03036,Pallavi Pandey,SC,7.96,I0015,ISRO,Ahmedabad
+S03037,Ishani Rajan,OBC,5.48,I0003,Wipro,Chennai
+S03042,Hritik Balan,ST,5.81,I0028,BYJU'S,Chennai
+S03044,Amruta Apte,OBC,6.99,I0008,State Bank of India,Bangalore
+S03048,Ethan Butala,EWS,5.83,I0015,ISRO,Ahmedabad
+S03049,Sanya Sura,OBC,7.47,I0002,Infosys,Chandigarh
+S03051,Aayush Dhingra,SC,8.92,I0027,OYO,Gaya
+S03054,Zinal Kota,ST,8.55,I0018,Mahindra & Mahindra,Kanpur
+S03057,Aradhana Shukla,SC,5.82,I0033,Adobe India,Gurugram
+S03058,Ikbal Chacko,GEN,6.31,I0031,Amazon India,Nagpur
+S03066,Abhiram Patla,OBC,6.31,I0033,Adobe India,Gurugram
+S03071,Harrison Pandit,EWS,8.49,I0006,ICICI Bank,Ahmedabad
+S03079,Qabil Babu,SC,5.86,I0026,Swiggy,Mysuru
+S03080,Wridesh Lall,GEN,5.41,I0031,Amazon India,Nagpur
+S03089,Krish Maharaj,EWS,7.56,I0022,Fortis Healthcare,Pune
+S03092,Ekta Bath,EWS,9.24,I0031,Amazon India,Nagpur
+S03098,Mahika Ben,ST,8.52,I0025,Zomato,Warangal
+S03099,Watika Prabhu,OBC,8.45,I0016,DRDO,Delhi
+S03102,Champak Thakkar,OBC,9.01,I0024,Flipkart,Jaipur
+S03106,George Gandhi,GEN,9.83,I0001,Tata Consultancy Services,Bangalore
+S03108,Hiral Bajwa,GEN,7.05,I0023,AIIMS,Kanpur
+S03110,Dalaja Sarraf,GEN,8.19,I0023,AIIMS,Kanpur
+S03119,Jairaj Taneja,OBC,5.4,I0012,ONGC,Delhi
+S03122,Ria Lalla,GEN,8.73,I0025,Zomato,Warangal
+S03124,Maya Dalal,GEN,6.27,I0010,PhonePe,Patna
+S03126,Isha Lad,EWS,7.78,I0027,OYO,Gaya
+S03130,Dipta Bhatti,ST,9.61,I0033,Adobe India,Gurugram
+S03132,Indrajit Kaur,GEN,6.21,I0028,BYJU'S,Chennai
+S03140,Vrinda Iyer,ST,9.71,I0025,Zomato,Warangal
+S03141,Matthew Kumar,ST,6.8,I0014,HAL,Bangalore
+S03145,Nathan Ramaswamy,SC,6.79,I0009,Paytm,Surat
+S03149,Ekalinga Ratta,GEN,7.57,I0017,Tata Motors,Chandigarh
+S03150,Veda Garde,SC,9.95,I0026,Swiggy,Mysuru
+S03155,Falak Dass,GEN,5.31,I0030,Microsoft India,Guwahati
+S03169,Lopa Mall,OBC,5.74,I0018,Mahindra & Mahindra,Kanpur
+S03174,Darpan Thakur,SC,8.74,I0022,Fortis Healthcare,Pune
+S03179,Raghav Patla,OBC,7.51,I0028,BYJU'S,Chennai
+S03182,Anmol Chaudry,GEN,7.42,I0028,BYJU'S,Chennai
+S03186,Bina Krishnan,GEN,7.55,I0008,State Bank of India,Bangalore
+S03187,Ojasvi Balasubramanian,SC,7.7,I0011,BHEL,Lucknow
+S03191,Brinda Sarraf,SC,8.31,I0018,Mahindra & Mahindra,Kanpur
+S03193,Caleb Sem,ST,8.97,I0032,IBM India,Noida
+S03195,Pooja Ghose,SC,6.08,I0009,Paytm,Surat
+S03199,Tanveer Prasad,SC,9.17,I0010,PhonePe,Patna
+S03214,Libni Guha,EWS,8.02,I0006,ICICI Bank,Ahmedabad
+S03215,Janya Wable,EWS,6.92,I0016,DRDO,Delhi
+S03222,Jack Kaur,OBC,8.28,I0012,ONGC,Delhi
+S03223,Harsh Prasad,SC,9.12,I0009,Paytm,Surat
+S03229,Hitesh Walla,SC,5.67,I0023,AIIMS,Kanpur
+S03232,Ikshita Rege,SC,7.54,I0019,Maruti Suzuki,Guwahati
+S03245,Bhavna Parmer,GEN,7.6,I0005,Tech Mahindra,Pune
+S03253,Nitara Agate,SC,9.08,I0031,Amazon India,Nagpur
+S03256,Aarna Lall,GEN,6.61,I0013,NTPC,Noida
+S03257,Lohit Ramakrishnan,GEN,5.34,I0024,Flipkart,Jaipur
+S03263,Gagan Dube,SC,6.26,I0026,Swiggy,Mysuru
+S03264,Zaitra Andra,OBC,9.87,I0006,ICICI Bank,Ahmedabad
+S03268,Unnati Dada,SC,8.4,I0019,Maruti Suzuki,Guwahati
+S03273,Zansi Konda,OBC,5.79,I0015,ISRO,Ahmedabad
+S03275,Rachana Bassi,ST,9.44,I0010,PhonePe,Patna
+S03290,Wahab Dubey,OBC,7.08,I0014,HAL,Bangalore
+S03292,Harini Parmer,OBC,5.94,I0023,AIIMS,Kanpur
+S03296,Jason Dhingra,EWS,5.06,I0017,Tata Motors,Chandigarh
+S03301,Brinda Agarwal,GEN,7.4,I0031,Amazon India,Nagpur
+S03309,Christopher Kade,EWS,8.49,I0019,Maruti Suzuki,Guwahati
+S03317,Yahvi Jain,ST,8.23,I0024,Flipkart,Jaipur
+S03323,Simon Mangat,ST,5.43,I0022,Fortis Healthcare,Pune
+S03325,Rohan Sridhar,GEN,7.17,I0019,Maruti Suzuki,Guwahati
+S03327,Abhiram Pillai,EWS,7.65,I0024,Flipkart,Jaipur
+S03331,Siya Viswanathan,OBC,5.75,I0002,Infosys,Chandigarh
+S03339,Ayaan Sani,EWS,6.35,I0017,Tata Motors,Chandigarh
+S03357,Bishakha Bajwa,SC,6.53,I0003,Wipro,Chennai
+S03362,Jeremiah Sen,OBC,6.19,I0014,HAL,Bangalore
+S03364,Anamika Kannan,OBC,9.87,I0014,HAL,Bangalore
+S03374,Arin Sachar,EWS,9.24,I0003,Wipro,Chennai
+S03376,Lekha Gaba,SC,8.58,I0011,BHEL,Lucknow
+S03380,Nachiket Dada,EWS,6.01,I0016,DRDO,Delhi
+S03383,Vrinda Dubey,ST,8.34,I0033,Adobe India,Gurugram
+S03389,Upkaar Virk,ST,6.21,I0018,Mahindra & Mahindra,Kanpur
+S03390,Nidra Thakur,EWS,8.39,I0018,Mahindra & Mahindra,Kanpur
+S03392,Jagdish Patel,GEN,5.32,I0030,Microsoft India,Guwahati
+S03401,Atharv Rana,GEN,8.83,I0028,BYJU'S,Chennai
+S03404,Jasmit Gade,SC,8.43,I0019,Maruti Suzuki,Guwahati
+S03431,Krishna Barad,OBC,6.14,I0033,Adobe India,Gurugram
+S03433,Mohammed Chandran,SC,9.96,I0014,HAL,Bangalore
+S03441,Wahab Hora,EWS,8.46,I0032,IBM India,Noida
+S03445,Qasim Dua,SC,6.22,I0017,Tata Motors,Chandigarh
+S03447,Saanvi Saraf,OBC,5.49,I0011,BHEL,Lucknow
+S03459,Amruta Rao,SC,8.52,I0016,DRDO,Delhi
+S03463,Wyatt Raman,EWS,8.43,I0001,Tata Consultancy Services,Bangalore
+S03466,Kashish Apte,ST,7.13,I0013,NTPC,Noida
+S03471,Andrew Dass,GEN,6.13,I0002,Infosys,Chandigarh
+S03473,Tanay Date,GEN,9.01,I0010,PhonePe,Patna
+S03474,Jack Contractor,GEN,9.1,I0024,Flipkart,Jaipur
+S03478,Ridhi Mall,SC,9.68,I0016,DRDO,Delhi
+S03489,Rajata Saini,EWS,8.05,I0016,DRDO,Delhi
+S03495,Charles Pandya,ST,7.1,I0012,ONGC,Delhi
+S03496,Harinakshi Kibe,OBC,8.74,I0020,Ola,Noida
+S03497,Kabir Chhabra,EWS,6.53,I0003,Wipro,Chennai
+S03501,Ucchal Arya,GEN,8.39,I0008,State Bank of India,Bangalore
+S03502,Chanakya Babu,GEN,6.54,I0016,DRDO,Delhi
+S03509,Jalsa Suri,ST,9.34,I0003,Wipro,Chennai
+S03518,Mason Palla,ST,8.16,I0001,Tata Consultancy Services,Bangalore
+S03519,Bhavini Dhingra,EWS,8.31,I0026,Swiggy,Mysuru
+S03525,Veer Nori,GEN,9.77,I0030,Microsoft India,Guwahati
+S03526,Alka Choudhary,ST,5.94,I0015,ISRO,Ahmedabad
+S03531,Damyanti Deol,GEN,8.05,I0003,Wipro,Chennai
+S03533,Oscar Ramesh,EWS,10.0,I0030,Microsoft India,Guwahati
+S03538,Banjeet Chandra,SC,9.35,I0010,PhonePe,Patna
+S03539,Ishanvi Mukhopadhyay,SC,8.09,I0022,Fortis Healthcare,Pune
+S03540,Aryan Sathe,SC,9.58,I0031,Amazon India,Nagpur
+S03543,Ria Kurian,SC,6.57,I0025,Zomato,Warangal
+S03545,Patrick Dani,ST,6.26,I0007,HDFC Bank,Ahmedabad
+S03556,Orinder Ratta,GEN,8.07,I0004,HCLTech,Kanpur
+S03557,Omkaar Nagarajan,OBC,9.83,I0030,Microsoft India,Guwahati
+S03565,Widisha Kohli,OBC,5.45,I0010,PhonePe,Patna
+S03567,Gunbir Kannan,OBC,9.62,I0012,ONGC,Delhi
+S03569,Alka Loke,EWS,7.76,I0004,HCLTech,Kanpur
+S03586,Balendra Gopal,SC,5.08,I0012,ONGC,Delhi
+S03590,Isha Desai,GEN,5.69,I0002,Infosys,Chandigarh
+S03591,Nakul Deshpande,ST,5.96,I0017,Tata Motors,Chandigarh
+S03598,Nicholas Kapoor,ST,7.37,I0023,AIIMS,Kanpur
+S03605,Tamanna Chaudhry,SC,9.48,I0020,Ola,Noida
+S03606,Zinal Vora,GEN,6.97,I0032,IBM India,Noida
+S03610,Udarsh Sandhu,OBC,5.97,I0014,HAL,Bangalore
+S03614,Varenya Mahajan,OBC,9.76,I0021,Apollo Hospitals,Chennai
+S03620,Rachita Kari,OBC,7.91,I0009,Paytm,Surat
+S03621,Aarna Wagle,OBC,9.28,I0024,Flipkart,Jaipur
+S03623,Ira Nazareth,SC,5.08,I0011,BHEL,Lucknow
+S03641,Ranbir Radhakrishnan,GEN,9.44,I0024,Flipkart,Jaipur
+S03656,David Varma,EWS,7.47,I0019,Maruti Suzuki,Guwahati
+S03663,Vasana Balay,ST,8.11,I0015,ISRO,Ahmedabad
+S03666,Aryan Nagy,OBC,5.25,I0004,HCLTech,Kanpur
+S03667,Ekaraj Sharma,GEN,8.11,I0010,PhonePe,Patna
+S03671,Nathan Chad,SC,7.59,I0014,HAL,Bangalore
+S03680,Gaurang Rajan,EWS,5.72,I0033,Adobe India,Gurugram
+S03683,Nitara Parmer,ST,7.46,I0027,OYO,Gaya
+S03689,Jairaj Vala,GEN,5.08,I0028,BYJU'S,Chennai
+S03691,Sarthak Comar,ST,9.6,I0022,Fortis Healthcare,Pune
+S03692,Xalak Nagy,SC,5.72,I0030,Microsoft India,Guwahati
+S03707,Harini Uppal,SC,8.24,I0032,IBM India,Noida
+S03712,Christopher Savant,GEN,9.52,I0024,Flipkart,Jaipur
+S03715,Victor Bir,EWS,8.91,I0020,Ola,Noida
+S03718,Hamsini Soman,ST,6.58,I0012,ONGC,Delhi
+S03727,Pooja Sagar,GEN,5.21,I0028,BYJU'S,Chennai
+S03728,Ikshita Shroff,EWS,6.78,I0018,Mahindra & Mahindra,Kanpur
+S03730,Jacob Date,SC,8.77,I0022,Fortis Healthcare,Pune
+S03732,Suhani Radhakrishnan,GEN,9.23,I0001,Tata Consultancy Services,Bangalore
+S03736,Vihaan Mallick,ST,8.51,I0001,Tata Consultancy Services,Bangalore
+S03739,Veer Cheema,SC,6.31,I0013,NTPC,Noida
+S03744,Imaran Oza,SC,5.28,I0020,Ola,Noida
+S03748,Rushil Devi,ST,9.28,I0005,Tech Mahindra,Pune
+S03763,Anusha Setty,OBC,6.88,I0031,Amazon India,Nagpur
+S03765,Wridesh Bhattacharyya,EWS,6.52,I0019,Maruti Suzuki,Guwahati
+S03773,Pranav Shan,GEN,9.85,I0004,HCLTech,Kanpur
+S03777,Ekapad Patla,EWS,9.39,I0028,BYJU'S,Chennai
+S03781,Atharv Ganguly,GEN,7.72,I0012,ONGC,Delhi
+S03785,Jhalak Walla,ST,5.61,I0003,Wipro,Chennai
+S03787,Dominic Mukhopadhyay,ST,8.39,I0004,HCLTech,Kanpur
+S03789,Yatin Bawa,SC,6.16,I0024,Flipkart,Jaipur
+S03792,Jack Karan,ST,6.02,I0030,Microsoft India,Guwahati
+S03796,Odika Tella,EWS,8.21,I0001,Tata Consultancy Services,Bangalore
+S03799,Ubika Bhandari,ST,5.67,I0031,Amazon India,Nagpur
+S03801,Rajata Ramesh,GEN,7.61,I0021,Apollo Hospitals,Chennai
+S03804,Janya Balan,EWS,6.47,I0021,Apollo Hospitals,Chennai
+S03805,Laban Datta,ST,8.6,I0001,Tata Consultancy Services,Bangalore
+S03806,Orinder Brahmbhatt,OBC,6.74,I0018,Mahindra & Mahindra,Kanpur
+S03807,Shaurya Dugar,GEN,7.87,I0027,OYO,Gaya
+S03819,Eshana Chadha,EWS,9.84,I0024,Flipkart,Jaipur
+S03821,Meghana Bal,OBC,7.84,I0025,Zomato,Warangal
+S03823,Dhruv Chowdhury,ST,8.06,I0033,Adobe India,Gurugram
+S03826,Ladli Bains,EWS,8.12,I0002,Infosys,Chandigarh
+S03828,Kalpit Suresh,SC,5.66,I0031,Amazon India,Nagpur
+S03829,Amruta Kapur,SC,7.7,I0024,Flipkart,Jaipur
+S03831,Chandani Sahota,SC,8.49,I0025,Zomato,Warangal
+S03838,Chatura Seth,EWS,9.65,I0013,NTPC,Noida
+S03843,Luke Handa,OBC,9.29,I0017,Tata Motors,Chandigarh
+S03844,Lila Singh,ST,6.36,I0021,Apollo Hospitals,Chennai
+S03845,Vedant Ahluwalia,SC,8.98,I0012,ONGC,Delhi
+S03848,Janaki Naik,SC,8.32,I0021,Apollo Hospitals,Chennai
+S03850,Ayushman Golla,GEN,9.19,I0028,BYJU'S,Chennai
+S03853,Nicholas Halder,EWS,8.31,I0032,IBM India,Noida
+S03856,Abhiram Sanghvi,OBC,6.82,I0020,Ola,Noida
+S03857,Rachit Seth,ST,8.96,I0026,Swiggy,Mysuru
+S03859,Ekaraj Muni,OBC,6.9,I0015,ISRO,Ahmedabad
+S03862,Megha Raj,EWS,9.82,I0022,Fortis Healthcare,Pune
+S03873,Sneha Char,EWS,6.48,I0002,Infosys,Chandigarh
+S03877,Zashil Munshi,ST,6.31,I0031,Amazon India,Nagpur
+S03888,Watika D’Alia,EWS,9.19,I0010,PhonePe,Patna
+S03896,Anya Sem,EWS,7.82,I0007,HDFC Bank,Ahmedabad
+S03899,Nitesh Keer,SC,8.26,I0001,Tata Consultancy Services,Bangalore
+S03901,Avi Kurian,ST,9.72,I0023,AIIMS,Kanpur
+S03904,Om Dada,OBC,9.73,I0019,Maruti Suzuki,Guwahati
+S03905,Brinda Luthra,ST,8.58,I0018,Mahindra & Mahindra,Kanpur
+S03906,Ekapad Amble,SC,6.04,I0028,BYJU'S,Chennai
+S03908,Manbir Taneja,GEN,8.74,I0022,Fortis Healthcare,Pune
+S03913,Darpan Chauhan,OBC,5.79,I0028,BYJU'S,Chennai
+S03914,Girik Rama,OBC,6.25,I0030,Microsoft India,Guwahati
+S03915,Kashish Mittal,SC,7.16,I0014,HAL,Bangalore
+S03921,Pahal Narasimhan,EWS,6.05,I0020,Ola,Noida
+S03923,Jacob Borra,SC,9.04,I0020,Ola,Noida
+S03927,Isha Ganesh,SC,7.24,I0033,Adobe India,Gurugram
+S03930,Sarthak Behl,ST,6.78,I0009,Paytm,Surat
+S03932,Faqid Natarajan,SC,9.89,I0009,Paytm,Surat
+S03934,Farhan Bhatt,GEN,5.07,I0027,OYO,Gaya
+S03936,Mitesh Bir,OBC,5.72,I0024,Flipkart,Jaipur
+S03939,Krisha Pathak,OBC,6.75,I0020,Ola,Noida
+S03941,Gautami Sibal,OBC,5.62,I0002,Infosys,Chandigarh
+S03953,Aarav Pall,ST,5.06,I0019,Maruti Suzuki,Guwahati
+S03955,Ayushman Chatterjee,GEN,8.02,I0031,Amazon India,Nagpur
+S03957,Balveer Mahajan,GEN,9.51,I0008,State Bank of India,Bangalore
+S03958,Kiaan Bhavsar,EWS,7.69,I0029,Google India,Patna
+S03959,Karan Zacharia,ST,9.04,I0026,Swiggy,Mysuru
+S03961,Radha Dube,GEN,6.3,I0031,Amazon India,Nagpur
+S03968,Varsha Wadhwa,EWS,7.11,I0003,Wipro,Chennai
+S03969,Harshil Saini,GEN,5.31,I0032,IBM India,Noida
+S03974,Eesha Johal,GEN,8.75,I0015,ISRO,Ahmedabad
+S03975,Harshil Kumer,SC,6.37,I0026,Swiggy,Mysuru
+S03980,Wridesh Dhar,GEN,7.81,I0005,Tech Mahindra,Pune
+S03982,Damini Keer,OBC,5.73,I0015,ISRO,Ahmedabad
+S03983,Brinda Radhakrishnan,GEN,9.32,I0021,Apollo Hospitals,Chennai
+S03984,Krishna Dhar,EWS,6.92,I0032,IBM India,Noida
+S03986,Janya Lall,SC,8.06,I0008,State Bank of India,Bangalore
+S03988,Ryan Walla,EWS,5.61,I0012,ONGC,Delhi
+S03992,Fiyaz Doshi,ST,5.96,I0027,OYO,Gaya
+S03995,Advik Manne,GEN,8.46,I0032,IBM India,Noida
+S04002,Vivaan Buch,EWS,5.44,I0016,DRDO,Delhi
+S04004,Samarth Aurora,ST,8.15,I0001,Tata Consultancy Services,Bangalore
+S04010,Samesh Nair,SC,6.23,I0008,State Bank of India,Bangalore
+S04015,Girik Guha,GEN,7.82,I0001,Tata Consultancy Services,Bangalore
+S04030,Peter Seth,ST,6.85,I0024,Flipkart,Jaipur
+S04032,William Sur,OBC,7.64,I0021,Apollo Hospitals,Chennai
+S04035,Rudra Oak,OBC,7.21,I0013,NTPC,Noida
+S04041,Chakradhar Padmanabhan,ST,6.85,I0002,Infosys,Chandigarh
+S04052,Radhika Prabhu,SC,6.81,I0022,Fortis Healthcare,Pune
+S04054,Yug Raman,GEN,6.47,I0029,Google India,Patna
+S04060,Upkaar Sankar,GEN,8.12,I0007,HDFC Bank,Ahmedabad
+S04064,Mugdha Baria,OBC,5.34,I0032,IBM India,Noida
+S04072,Vrishti Uppal,ST,5.29,I0004,HCLTech,Kanpur
+S04074,Lopa Parekh,OBC,6.99,I0026,Swiggy,Mysuru
+S04079,Chaaya Naidu,EWS,8.02,I0022,Fortis Healthcare,Pune
+S04081,Hredhaan Ramachandran,OBC,6.25,I0029,Google India,Patna
+S04082,Eta Dash,GEN,8.15,I0009,Paytm,Surat
+S04090,Jack Yohannan,EWS,5.48,I0016,DRDO,Delhi
+S04096,Ikshita Bali,SC,8.36,I0031,Amazon India,Nagpur
+S04107,Yamini Garg,ST,6.82,I0033,Adobe India,Gurugram
+S04113,Diya Purohit,SC,9.57,I0008,State Bank of India,Bangalore
+S04120,Samar Kalita,OBC,8.37,I0021,Apollo Hospitals,Chennai
+S04121,Vaishnavi Char,GEN,6.4,I0029,Google India,Patna
+S04124,Vrishti Anne,OBC,6.33,I0019,Maruti Suzuki,Guwahati
+S04130,Mitali Gill,EWS,5.21,I0024,Flipkart,Jaipur
+S04133,Irya Kant,EWS,7.24,I0004,HCLTech,Kanpur
+S04146,Gunbir Dube,OBC,9.79,I0010,PhonePe,Patna
+S04150,Vasatika Puri,OBC,5.28,I0021,Apollo Hospitals,Chennai
+S04156,Urmi Apte,ST,8.27,I0032,IBM India,Noida
+S04159,Anthony Murty,ST,7.15,I0025,Zomato,Warangal
+S04165,Oliver Srivastava,GEN,7.45,I0020,Ola,Noida
+S04172,Neel Keer,ST,6.9,I0011,BHEL,Lucknow
+S04175,Warjas Majumdar,GEN,7.62,I0005,Tech Mahindra,Pune
+S04180,Aditya Prabhakar,SC,9.47,I0007,HDFC Bank,Ahmedabad
+S04188,Meera Seth,SC,5.62,I0032,IBM India,Noida
+S04193,Zinal Bansal,OBC,8.28,I0013,NTPC,Noida
+S04198,Arin Mandal,ST,8.47,I0008,State Bank of India,Bangalore
+S04199,Hema Oza,EWS,5.25,I0006,ICICI Bank,Ahmedabad
+S04204,Ikshita Tripathi,SC,7.84,I0015,ISRO,Ahmedabad
+S04206,Lajita Kadakia,GEN,9.86,I0021,Apollo Hospitals,Chennai
+S04207,Abhimanyu Chad,SC,7.21,I0001,Tata Consultancy Services,Bangalore
+S04211,Omya Vaidya,ST,8.33,I0021,Apollo Hospitals,Chennai
+S04212,Chandani Sood,EWS,9.4,I0008,State Bank of India,Bangalore
+S04221,Amara Naik,SC,9.83,I0013,NTPC,Noida
+S04235,Neelima Memon,GEN,5.56,I0032,IBM India,Noida
+S04237,Unni Bhargava,SC,7.22,I0017,Tata Motors,Chandigarh
+S04238,Chandani Acharya,ST,6.59,I0027,OYO,Gaya
+S04241,Anya Varty,ST,9.34,I0021,Apollo Hospitals,Chennai
+S04246,Gaurika Ganesan,GEN,6.88,I0002,Infosys,Chandigarh
+S04264,Omaja Panchal,OBC,7.67,I0024,Flipkart,Jaipur
+S04269,Girik Madan,EWS,8.86,I0003,Wipro,Chennai
+S04270,Sai Shenoy,ST,9.63,I0015,ISRO,Ahmedabad
+S04272,William Goel,ST,6.91,I0020,Ola,Noida
+S04282,Baghyawati Wagle,OBC,5.16,I0004,HCLTech,Kanpur
+S04283,Garima Chand,ST,6.18,I0027,OYO,Gaya
+S04289,Christopher Shanker,OBC,9.88,I0029,Google India,Patna
+S04306,Osha Dada,ST,5.89,I0008,State Bank of India,Bangalore
+S04307,Mekhala Zachariah,SC,5.94,I0027,OYO,Gaya
+S04309,Onveer Iyer,ST,8.54,I0010,PhonePe,Patna
+S04311,Lipika Krishnamurthy,SC,9.14,I0001,Tata Consultancy Services,Bangalore
+S04312,Jack Parmer,EWS,6.08,I0010,PhonePe,Patna
+S04318,Janaki Bhakta,OBC,9.41,I0033,Adobe India,Gurugram
+S04322,Bhavika Tailor,SC,8.63,I0026,Swiggy,Mysuru
+S04323,Turvi Dixit,SC,7.66,I0021,Apollo Hospitals,Chennai
+S04325,Mason Gola,OBC,9.03,I0005,Tech Mahindra,Pune
+S04328,Falak Banerjee,SC,7.83,I0002,Infosys,Chandigarh
+S04330,Bhavna Bhat,GEN,6.72,I0027,OYO,Gaya
+S04332,Azaan Master,OBC,7.83,I0028,BYJU'S,Chennai
+S04334,Karan Hans,GEN,6.04,I0027,OYO,Gaya
+S04335,Kamala Hayer,EWS,6.71,I0025,Zomato,Warangal
+S04337,Girindra Pai,OBC,5.94,I0006,ICICI Bank,Ahmedabad
+S04350,Panini Keer,OBC,9.11,I0030,Microsoft India,Guwahati
+S04357,Aradhana Raman,GEN,6.77,I0030,Microsoft India,Guwahati
+S04359,Joshua Halder,ST,6.41,I0006,ICICI Bank,Ahmedabad
+S04361,Amrita Mand,ST,9.5,I0002,Infosys,Chandigarh
+S04363,Harsh Tiwari,GEN,9.65,I0023,AIIMS,Kanpur
+S04364,Veda Nigam,GEN,5.99,I0026,Swiggy,Mysuru
+S04372,Zarna Natt,ST,5.71,I0028,BYJU'S,Chennai
+S04375,Samarth Mangal,OBC,9.73,I0018,Mahindra & Mahindra,Kanpur
+S04377,Hemani Bhatt,ST,7.09,I0029,Google India,Patna
+S04384,Oviya Yadav,OBC,7.37,I0004,HCLTech,Kanpur
+S04387,Joshua Gulati,ST,7.87,I0015,ISRO,Ahmedabad
+S04390,Hritik Vora,SC,5.36,I0031,Amazon India,Nagpur
+S04396,Isaac Cheema,GEN,5.48,I0020,Ola,Noida
+S04405,Jai Konda,SC,8.09,I0017,Tata Motors,Chandigarh
+S04411,Advika Saini,ST,5.33,I0009,Paytm,Surat
+S04412,Omya Seth,GEN,7.3,I0028,BYJU'S,Chennai
+S04431,Yuvraj Bora,GEN,5.87,I0023,AIIMS,Kanpur
+S04432,Jeremiah Ramachandran,ST,7.02,I0021,Apollo Hospitals,Chennai
+S04434,Peter Jaggi,EWS,6.2,I0001,Tata Consultancy Services,Bangalore
+S04435,Reva Pai,SC,6.19,I0023,AIIMS,Kanpur
+S04438,Anjali Mohanty,ST,9.77,I0004,HCLTech,Kanpur
+S04444,Pushti Deo,OBC,7.54,I0008,State Bank of India,Bangalore
+S04445,Diya Magar,ST,5.12,I0004,HCLTech,Kanpur
+S04449,Udant Kadakia,ST,7.22,I0015,ISRO,Ahmedabad
+S04455,Falan Palla,OBC,6.08,I0033,Adobe India,Gurugram
+S04456,Yauvani Kakar,EWS,7.11,I0025,Zomato,Warangal
+S04457,Hamsini Merchant,SC,9.05,I0005,Tech Mahindra,Pune
+S04458,Oeshi Subramaniam,EWS,5.35,I0014,HAL,Bangalore
+S04459,Triveni Mukhopadhyay,EWS,9.42,I0033,Adobe India,Gurugram
+S04462,Saksham Balay,ST,7.98,I0014,HAL,Bangalore
+S04465,Gautami Nagar,SC,7.63,I0032,IBM India,Noida
+S04470,Ubika Kadakia,EWS,7.63,I0021,Apollo Hospitals,Chennai
+S04472,Brijesh Shanker,OBC,5.01,I0009,Paytm,Surat
+S04474,Inaya Minhas,ST,9.68,I0023,AIIMS,Kanpur
+S04475,Reyansh Raju,OBC,9.31,I0030,Microsoft India,Guwahati
+S04485,Ishanvi Doctor,SC,8.85,I0015,ISRO,Ahmedabad
+S04486,Oscar Toor,OBC,5.54,I0011,BHEL,Lucknow
+S04492,Unni Rout,GEN,9.08,I0029,Google India,Patna
+S04495,Radha Sagar,EWS,8.11,I0014,HAL,Bangalore
+S04505,Radha Tank,GEN,5.36,I0019,Maruti Suzuki,Guwahati
+S04508,Abdul Nori,SC,8.47,I0022,Fortis Healthcare,Pune
+S04510,Fitan Chatterjee,GEN,5.44,I0014,HAL,Bangalore
+S04513,Jagdish Chaudhary,ST,6.16,I0019,Maruti Suzuki,Guwahati
+S04514,Indira Desai,SC,6.09,I0003,Wipro,Chennai
+S04515,Tara Tandon,SC,9.25,I0014,HAL,Bangalore
+S04518,Mahika Venkatesh,ST,6.68,I0010,PhonePe,Patna
+S04519,Dhruv Nori,ST,8.23,I0014,HAL,Bangalore
+S04520,Rudra Dada,OBC,9.79,I0009,Paytm,Surat
+S04521,Lajita Rajagopalan,GEN,8.32,I0021,Apollo Hospitals,Chennai
+S04528,Veda Pandit,ST,5.37,I0030,Microsoft India,Guwahati
+S04530,Edhitha Walia,EWS,7.44,I0027,OYO,Gaya
+S04532,Yashawini Atwal,SC,9.5,I0013,NTPC,Noida
+S04538,Charvi Sheth,GEN,8.93,I0031,Amazon India,Nagpur
+S04539,Aryan Deo,OBC,5.85,I0020,Ola,Noida
+S04542,Tara Dua,SC,9.91,I0012,ONGC,Delhi
+S04551,Aadi Palla,ST,7.37,I0014,HAL,Bangalore
+S04552,Daniel Grewal,GEN,8.34,I0018,Mahindra & Mahindra,Kanpur
+S04553,Yagnesh Biswas,ST,5.6,I0004,HCLTech,Kanpur
+S04567,Dominic Dalal,SC,9.55,I0005,Tech Mahindra,Pune
+S04570,Rudra Chatterjee,SC,5.15,I0011,BHEL,Lucknow
+S04579,Ishani Krish,EWS,8.86,I0018,Mahindra & Mahindra,Kanpur
+S04583,Advika Tailor,SC,7.62,I0028,BYJU'S,Chennai
+S04584,Logan Dugar,GEN,8.6,I0024,Flipkart,Jaipur
+S04594,Triya Pant,ST,6.96,I0024,Flipkart,Jaipur
+S04596,Aishani Vyas,ST,8.18,I0002,Infosys,Chandigarh
+S04598,Nitesh Vaidya,GEN,6.34,I0007,HDFC Bank,Ahmedabad
+S04608,Girish Rajagopalan,SC,6.13,I0026,Swiggy,Mysuru
+S04611,Ayush Vora,SC,7.81,I0003,Wipro,Chennai
+S04620,Nilima Grewal,SC,8.83,I0012,ONGC,Delhi
+S04621,Viraj D’Alia,ST,6.3,I0005,Tech Mahindra,Pune
+S04622,Ekaraj Pingle,OBC,7.99,I0010,PhonePe,Patna
+S04624,Kamya Oza,ST,5.41,I0018,Mahindra & Mahindra,Kanpur
+S04628,Parth Ravel,SC,8.34,I0009,Paytm,Surat
+S04638,Aayush Chand,EWS,7.58,I0011,BHEL,Lucknow
+S04648,Tanmayi Chokshi,OBC,9.93,I0021,Apollo Hospitals,Chennai
+S04650,Aarnav Sampath,EWS,9.45,I0026,Swiggy,Mysuru
+S04654,Ekavir Shere,EWS,6.62,I0029,Google India,Patna
+S04655,Brijesh Bansal,EWS,6.6,I0030,Microsoft India,Guwahati
+S04656,Tripti Venkatesh,OBC,8.63,I0008,State Bank of India,Bangalore
+S04661,Jairaj Luthra,SC,9.83,I0012,ONGC,Delhi
+S04666,Qushi Pandit,SC,7.81,I0030,Microsoft India,Guwahati
+S04671,Turvi Murty,OBC,6.36,I0013,NTPC,Noida
+S04673,Ganga Dua,ST,7.68,I0004,HCLTech,Kanpur
+S04675,Triveni Dube,GEN,9.27,I0005,Tech Mahindra,Pune
+S04679,Wahab Sawhney,OBC,6.07,I0014,HAL,Bangalore
+S04683,Dhruv Kumar,OBC,9.8,I0004,HCLTech,Kanpur
+S04685,Laban Sagar,GEN,8.59,I0006,ICICI Bank,Ahmedabad
+S04689,Tripti Tripathi,EWS,8.05,I0021,Apollo Hospitals,Chennai
+S04690,Alexander Gulati,ST,9.48,I0014,HAL,Bangalore
+S04692,Dalbir Mohan,GEN,7.35,I0025,Zomato,Warangal
+S04695,Harini Naik,SC,8.37,I0020,Ola,Noida
+S04698,Siya Bhandari,OBC,7.25,I0018,Mahindra & Mahindra,Kanpur
+S04722,Vanya Patla,OBC,6.58,I0021,Apollo Hospitals,Chennai
+S04725,Nitara Bhatia,ST,7.8,I0026,Swiggy,Mysuru
+S04729,Rayaan Goel,GEN,6.2,I0008,State Bank of India,Bangalore
+S04749,Darika Choudhary,GEN,5.82,I0022,Fortis Healthcare,Pune
+S04765,Leela Thakkar,GEN,5.33,I0004,HCLTech,Kanpur
+S04774,Sai Mane,EWS,9.81,I0015,ISRO,Ahmedabad
+S04775,Harshil Dash,ST,6.13,I0002,Infosys,Chandigarh
+S04787,Yochana Wagle,ST,6.41,I0014,HAL,Bangalore
+S04789,Aarini Bose,OBC,8.24,I0005,Tech Mahindra,Pune
+S04796,Abdul Muni,GEN,7.86,I0003,Wipro,Chennai
+S04800,Sanaya Dugar,EWS,7.04,I0010,PhonePe,Patna
+S04804,Manya Dutta,OBC,9.22,I0018,Mahindra & Mahindra,Kanpur
+S04805,Wyatt Pingle,GEN,6.41,I0001,Tata Consultancy Services,Bangalore
+S04812,Gaurika Taneja,GEN,5.16,I0032,IBM India,Noida
+S04813,Nimrat Thaker,OBC,7.75,I0032,IBM India,Noida
+S04816,Harita Swaminathan,EWS,5.57,I0030,Microsoft India,Guwahati
+S04823,Fitan Master,SC,8.12,I0006,ICICI Bank,Ahmedabad
+S04828,Shivansh Pandey,EWS,6.02,I0011,BHEL,Lucknow
+S04835,Jyoti Srinivasan,GEN,5.42,I0005,Tech Mahindra,Pune
+S04838,Yochana Krish,OBC,6.1,I0017,Tata Motors,Chandigarh
+S04842,Kritika Varma,ST,9.6,I0012,ONGC,Delhi
+S04844,Raghav Mitra,ST,6.58,I0014,HAL,Bangalore
+S04849,Darika Oak,ST,9.79,I0019,Maruti Suzuki,Guwahati
+S04856,Barkha Bakshi,GEN,7.14,I0018,Mahindra & Mahindra,Kanpur
+S04861,Kashish Barad,OBC,7.65,I0029,Google India,Patna
+S04867,Ishita Badal,OBC,7.1,I0008,State Bank of India,Bangalore
+S04868,Geetika Ratta,ST,7.03,I0021,Apollo Hospitals,Chennai
+S04871,Balvan Banerjee,GEN,7.72,I0012,ONGC,Delhi
+S04873,Yutika Master,ST,5.02,I0005,Tech Mahindra,Pune
+S04878,Yuvraj Ravel,SC,7.36,I0023,AIIMS,Kanpur
+S04881,Libni Kibe,ST,7.68,I0018,Mahindra & Mahindra,Kanpur
+S04882,Ansh Kanda,EWS,8.24,I0021,Apollo Hospitals,Chennai
+S04889,Gabriel Savant,GEN,7.3,I0029,Google India,Patna
+S04895,Abhiram Dhar,GEN,5.98,I0028,BYJU'S,Chennai
+S04897,Eshana Shetty,EWS,8.5,I0023,AIIMS,Kanpur
+S04899,Aadhya Dasgupta,GEN,8.39,I0009,Paytm,Surat
+S04904,Aditya Krishnamurthy,EWS,9.25,I0032,IBM India,Noida
+S04906,Yashasvi Mitra,ST,6.15,I0012,ONGC,Delhi
+S04908,Kavya Sheth,ST,5.17,I0009,Paytm,Surat
+S04914,Abha Sachdev,OBC,6.86,I0020,Ola,Noida
+S04918,Manthan Dewan,ST,6.79,I0031,Amazon India,Nagpur
+S04922,Leela Chauhan,SC,5.25,I0017,Tata Motors,Chandigarh
+S04923,Mitesh Vyas,ST,7.86,I0022,Fortis Healthcare,Pune
+S04927,Rachit Kara,OBC,5.83,I0004,HCLTech,Kanpur
+S04934,Gavin Kohli,ST,5.74,I0016,DRDO,Delhi
+S04943,Ishita Chada,ST,9.32,I0023,AIIMS,Kanpur
+S04948,Vivaan Ramanathan,GEN,7.21,I0010,PhonePe,Patna
+S04950,Reyansh Bera,SC,9.38,I0001,Tata Consultancy Services,Bangalore
+S04952,Sathvik Krishna,GEN,9.13,I0026,Swiggy,Mysuru
+S04956,Ayaan Handa,GEN,8.33,I0015,ISRO,Ahmedabad
+S04957,Qadim Raghavan,EWS,7.12,I0016,DRDO,Delhi
+S04961,Madhav Jhaveri,ST,8.99,I0019,Maruti Suzuki,Guwahati
+S04962,Ranbir Mallick,EWS,6.72,I0017,Tata Motors,Chandigarh
+S04974,Deepa Bail,OBC,7.64,I0030,Microsoft India,Guwahati
+S04977,Jagvi Deep,ST,6.6,I0031,Amazon India,Nagpur
+S04978,Faris Wali,GEN,7.18,I0026,Swiggy,Mysuru
+S05000,Reva Rout,OBC,8.65,I0021,Apollo Hospitals,Chennai
